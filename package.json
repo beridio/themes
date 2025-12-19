@@ -1,0 +1,69 @@
+{
+  "name": "chi-chavez",
+  "displayName": "ChiChavez",
+  "description": "A Collection of the Very Best Themes for the Simple Human",
+  "version": "1.0.4",
+  "publisher": "JesusChavez",
+  "repository": "https://github.com/chavezutajara/themes",
+  "homepage": "https://aliado.com.mx",
+  "icon": "images/icon.png",
+  "galleryBanner": {
+    "color": "#0c0a20",
+    "theme": "dark"
+  },
+  "engines": {
+    "vscode": "^1.24.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": " ChiChavez Paper",
+        "uiTheme": "vs",
+        "path": "./themes/paper.json"
+      },
+      {
+        "label": " ChiChavez Brown",
+        "uiTheme": "vs-dark",
+        "path": "./themes/brown.json"
+      },
+      {
+        "label": " ChiChavez Chocolaty",
+        "uiTheme": "vs-dark",
+        "path": "./themes/chocolaty.json"
+      },
+      {
+        "label": " ChiChavez Soul",
+        "uiTheme": "vs-dark",
+        "path": "./themes/soul.json"
+      },
+      {
+        "label": " ChiChavez Dark",
+        "uiTheme": "vs-dark",
+        "path": "./themes/dark.json"
+      },
+      {
+        "label": " ChiChavez Dark Bolder",
+        "uiTheme": "vs-dark",
+        "path": "./themes/black.json"
+      },
+      {
+        "label": " ChiChavez Dark Bold",
+        "uiTheme": "vs-dark",
+        "path": "./themes/bold.json"
+      },
+      {
+        "label": " ChiChavez Punk",
+        "uiTheme": "vs-dark",
+        "path": "./themes/punk.json"
+      },
+      {
+        "label": " ChiChavez Outrun",
+        "uiTheme": "vs-dark",
+        "path": "./themes/outrun.json"
+      }
+    ]
+  }
+}
